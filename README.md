@@ -6,7 +6,7 @@
 - 🧠 Interests: **Software Development, Web Development and Machine Learning**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/olivia-wongg/)!
 
-### Languages & Tools:
+## Languages & Tools:
 
 [![My Languages & Tools](https://skillicons.dev/icons?i=py,java,c,r,css,figma,html,js,linux)](https://skillicons.dev)
 
