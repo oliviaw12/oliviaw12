@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 📚 I'm a second-year Computer Science Specialist and Mathematics Minor at the University of Toronto
 - 🧠 Interests: **Software Development, Web Development and Machine Learning**
+- 📫 Reach me on [LinkedIn](www.linkedin.com/in/olivia-wongg)!
 
 ### Languages & Tools:
 
