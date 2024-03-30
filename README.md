@@ -7,9 +7,9 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/olivia-wongg/)
   
 <br/>
+
 ### Languages & Tools
 
 [![My Languages & Tools](https://skillicons.dev/icons?i=py,java,c,r,css,blender,figma,html,js,linux)](https://skillicons.dev)
-
 <br/>
 
