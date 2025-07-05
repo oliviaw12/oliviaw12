@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 📚 I'm a third-year Computer Science Specialist and Mathematics Minor at the University of Toronto
+- 📚 I'm a fourth-year Computer Science Specialist and Mathematics Minor at the University of Toronto
 - 💡 Interests: **Software Development, Web Development and Machine Learning**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/olivia-wongg/)
   
